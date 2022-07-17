@@ -5,7 +5,7 @@
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-E34F26.svg?style=flat&logo=css3&logoColor=white)
-    ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=white)
+    ![Vue3](https://img.shields.io/badge/Vue3-61DAFB.svg?style=flat&logo=react&logoColor=white)
     ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
     ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat&logo=webpack&logoColor=white)
     ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
