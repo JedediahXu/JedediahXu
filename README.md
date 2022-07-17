@@ -1,8 +1,5 @@
 - # 👋 Hey there
 
-  I'm ChetSerenade, a front-end developer.
-  [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
-
   - 🚀 I use daily:
     ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
@@ -22,16 +19,4 @@
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   - ⚡️ Fun fact: I am very interested in 🍿 movies.
   <p><span>Last 7 Days :</span> <img style="margin-top:3px;" src="https://wakatime.com/badge/user/35c7ff7b-50b4-4816-9263-38b08e3c771c.svg"/></p>
-  
-  
-  <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ChetSerenade&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ChetSerenade&theme=calm&hide_border=true">
-</p>
-</details>
