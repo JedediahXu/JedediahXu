@@ -17,6 +17,3 @@
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   - 🌱 Learning all about:
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-  - ⚡️ Fun fact: I am very interested in 🍿 movies.
-  <p><span>Last 7 Days :</span> <img style="margin-top:3px;" src="https://wakatime.com/badge/user/35c7ff7b-50b4-4816-9263-38b08e3c771c.svg"/></p>
-
