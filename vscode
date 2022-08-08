@@ -1,0 +1,403 @@
+{
+  "editor.accessibilitySupport": "off",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.fontFamily": "Input Mono, Fira Code, monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss06', 'zero'",
+  "editor.fontSize": 13.5,
+  "editor.glyphMargin": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "editor.lineNumbers": "interval",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "boundary",
+  "editor.suggestSelection": "first",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.tabSize": 2,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true, // this allows ESLint to auto fix on save
+    "source.organizeImports": false
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "window.autoDetectColorScheme": true,
+  "window.dialogStyle": "custom",
+  "window.nativeTabs": true, // this is great, macOS only
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabCloseButton": "left",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 5,
+  "workbench.fontAliasing": "antialiased",
+  "workbench.iconTheme": "file-icons",
+  "workbench.list.smoothScrolling": true,
+  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+  "workbench.preferredLightColorTheme": "Vitesse Light",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.tree.expandMode": "singleClick",
+  "workbench.tree.indent": 10,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "extensions.ignoreRecommendations": true,
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.simpleDialog.enable": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.untrackedChanges": "separate",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.fontWeight": "300",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.tabs.enabled": true,
+  "scm.diffDecorationsGutterWidth": 2,
+  "debug.onTaskErrors": "debugAnyway",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "search.exclude": {
+    "**/.git": true,
+    "**/.github": true,
+    "**/.nuxt": true,
+    "**/.output": true,
+    "**/.pnpm": true,
+    "**/.vscode": true,
+    "**/.yarn": true,
+    "**/bower_components": true,
+    "**/dist/**": true,
+    "**/logs": true,
+    "**/node_modules": true,
+    "**/out/**": true,
+    "**/package-lock.json": true,
+    "**/pnpm-lock.yaml": true,
+    "**/tmp": true,
+    "**/yarn.lock": true
+  },
+  // Extension configs
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": false,
+  "errorLens.enabledDiagnosticLevels": [
+    "warning",
+    "error"
+  ],
+  "errorLens.excludeBySource": [
+    "cSpell",
+    "Grammarly",
+    "eslint"
+  ],
+  // ESLint config: https://github.com/antfu/eslint-config
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.quiet": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "json5"
+  ],
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "cSpell.allowCompoundWords": true,
+  "cSpell.language": "en,en-US",
+  "css.lint.hexColorLength": "ignore",
+  "githubIssues.workingIssueFormatScm": "#${issueNumberLabel}",
+  "githubPullRequests.fileListLayout": "tree",
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.menus": {
+    "editor": {
+      "blame": false,
+      "clipboard": true,
+      "compare": true,
+      "history": false,
+      "remote": false
+    },
+    "editorGroup": {
+      "blame": true,
+      "compare": false
+    },
+    "editorTab": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "explorer": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
+    },
+    "scm": {
+      "authors": true
+    },
+    "scmGroup": {
+      "compare": true,
+      "openClose": true,
+      "stash": true
+    },
+    "scmGroupInline": {
+      "stash": true
+    },
+    "scmItem": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": false,
+      "stash": true
+    }
+  },
+  "i18n-ally.autoDetection": false,
+  "i18n-ally.displayLanguage": "en",
+  "i18n-ally.ignoredLocales": [],
+  "iconify.annotations": true,
+  "iconify.inplace": true,
+  "svg.preview.mode": "svg",
+  "volar.autoCompleteRefs": false,
+  "volar.codeLens.pugTools": false,
+  "volar.codeLens.scriptSetupTools": true,
+  "volar.completion.preferredTagNameCase": "pascal",
+  "volar.showWelcomePage": false,
+  "volar.takeOverMode.enabled": true,
+  "windicss.enableCodeFolding": false,
+  "prettier.enable": false, // I only use Prettier for manually formatting
+  "prettier.printWidth": 200,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  // File Nesting
+  // this might not be up to date with the repo, please check yourself
+  // updated 2022-03-10 06:10
+  // https://github.com/antfu/vscode-file-nesting-config
+  "explorer.experimental.fileNesting.enabled": true,
+  "explorer.experimental.fileNesting.expand": false,
+  "explorer.experimental.fileNesting.patterns": {
+    ".gitignore": ".gitattributes, .gitmodules, .gitmessage, .mailmap, .git-blame*",
+    "*.js": "$(capture).js.map, $(capture).min.js, $(capture).d.ts",
+    "*.jsx": "$(capture).js",
+    "*.ts": "$(capture).js, $(capture).*.ts",
+    "*.tsx": "$(capture).ts",
+    "*.vue": "$(capture).*.ts, $(capture).*.js",
+    "index.d.ts": "*.d.ts",
+    "shims.d.ts": "*.d.ts",
+    "*.cpp": "$(capture).hpp, $(capture).h, $(capture).hxx",
+    "*.cxx": "$(capture).hpp, $(capture).h, $(capture).hxx",
+    "*.cc": "$(capture).hpp, $(capture).h, $(capture).hxx",
+    "*.c": "$(capture).h",
+    "go.mod": ".air*, go.sum",
+    "default.nix": "shell.nix",
+    "flake.nix": "flake.lock",
+    "BUILD.bazel": "*.bzl, *.bazel, *.bazelrc, bazel.rc, .bazelignore, .bazelproject, WORKSPACE",
+    "CMakeLists.txt": "*.cmake, *.cmake.in, .cmake-format.yaml, CMakePresets.json",
+    ".clang-tidy": ".clang-format",
+    ".env": "*.env, .env.*, env.d.ts",
+    "dockerfile": ".dockerignore, dockerfile*",
+    "package.json": ".browserslist*, .circleci*, .codecov, .commitlint*, .editorconfig, .eslint*, .firebase*, .flowconfig, .github*, .gitlab*, .gitpod*, .huskyrc*, .jslint*, .lintstagedrc*, .markdownlint*, .mocha*, .node-version, .nodemon*, .npm*, .nvmrc, .pm2*, .pnp.*, .pnpm*, .prettier*, .releaserc*, .sentry*, .stackblitz*, .styleci*, .stylelint*, .tazerc*, .textlint*, .tool-versions, .travis*, .vscode*, .watchman*, .xo-config*, .yamllint*, .yarnrc*, api-extractor.json, appveyor*, ava.config.*, azure-pipelines*, bower.json, build.config.*, commitlint*, crowdin*, cypress.json, dangerfile*, dprint.json, firebase.json, grunt*, gulp*, jasmine.*, jenkins*, jest.config.*, jsconfig.*, karma*, lerna*, lint-staged*, nest-cli.*, netlify*, nodemon*, nx.*, package-lock.json, playwright.config.*, pm2.*, pnpm*, prettier*, pullapprove*, puppeteer.config.*, renovate*, rollup.config.*, stylelint*, tsconfig.*, tsdoc.*, tslint*, tsup.config.*, turbo*, typedoc*, vercel*, vetur.config.*, vitest.config.*, webpack.config.*, workspace.json, xo.config.*, yarn*",
+    "rush.json": ".browserslist*, .circleci*, .codecov, .commitlint*, .editorconfig, .eslint*, .firebase*, .flowconfig, .github*, .gitlab*, .gitpod*, .huskyrc*, .jslint*, .lintstagedrc*, .markdownlint*, .mocha*, .node-version, .nodemon*, .npm*, .nvmrc, .pm2*, .pnp.*, .pnpm*, .prettier*, .releaserc*, .sentry*, .stackblitz*, .styleci*, .stylelint*, .tazerc*, .textlint*, .tool-versions, .travis*, .vscode*, .watchman*, .xo-config*, .yamllint*, .yarnrc*, api-extractor.json, appveyor*, ava.config.*, azure-pipelines*, bower.json, build.config.*, commitlint*, crowdin*, cypress.json, dangerfile*, dprint.json, firebase.json, grunt*, gulp*, jasmine.*, jenkins*, jest.config.*, jsconfig.*, karma*, lerna*, lint-staged*, nest-cli.*, netlify*, nodemon*, nx.*, package-lock.json, playwright.config.*, pm2.*, pnpm*, prettier*, pullapprove*, puppeteer.config.*, renovate*, rollup.config.*, stylelint*, tsconfig.*, tsdoc.*, tslint*, tsup.config.*, turbo*, typedoc*, vercel*, vetur.config.*, vitest.config.*, webpack.config.*, workspace.json, xo.config.*, yarn*",
+    "readme.*": "authors, backers.md, changelog*, citation*, code_of_conduct.md, codeowners, contributing.md, contributors, copying, credits, governance.md, history.md, license*, maintainers, readme*, security.md, sponsors.md",
+    "cargo.toml": ".clippy.toml, .rustfmt.toml, cargo.lock, clippy.toml, cross.toml, rust-toolchain.toml, rustfmt.toml",
+    "gemfile": ".ruby-version, gemfile.lock",
+    "composer.json": "composer.lock, phpunit.xml*, psalm*.xml",
+    "vite.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, index.html, jasmine.*, jest.config.*, jsconfig.*, karma*, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
+    "vue.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
+    "nuxt.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
+    "next.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, next-env.d.ts, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
+    "svelte.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, mdsvex.config.js, playwright.config.*, postcss.config.*, puppeteer.config.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*",
+    "remix.config.*": "*.env, .babelrc*, .codecov, .cssnanorc*, .env.*, .htmlnanorc*, .mocha*, .postcssrc*, .terserrc*, api-extractor.json, ava.config.*, babel.config.*, cssnano.config.*, cypress.json, env.d.ts, htmlnanorc.*, jasmine.*, jest.config.*, jsconfig.*, karma*, playwright.config.*, postcss.config.*, puppeteer.config.*, remix.*, svgo.config.*, tailwind.config.*, tsconfig.*, tsdoc.*, unocss.config.*, vitest.config.*, webpack.config.*, windi.config.*"
+  },
+  "git.path": "",
+  "files.associations": {
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html",
+    "javascript": "javascriptreact"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "doxdocgen.generic.authorEmail": "510374040@qq.com",
+  "doxdocgen.generic.authorName": "Xuhuazhi",
+  "files.autoSave": "onFocusChange",
+  //取消提示警告
+  "vetur.ignoreProjectWarning": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.sideBar.location": "right",
+  "sync.gist": "0358cb49ff80682a27d5903bdf1564d9",
+  "sync.autoDownload": false,
+  "cSpell.userWords": [
+    "avue",
+    "Avuex",
+    "daisyui",
+    "formatization",
+    "Ladapm",
+    "Linnk",
+    "pinia",
+    "resd",
+    "shijian",
+    "tiemselection",
+    "xuhuazhi"
+  ],
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "typescript.disableAutomaticTypeAcquisition": true,
+  // 头部注释
+  "fileheader.customMade": {
+    // 头部注释默认字段
+    "Description": "",
+    "Author": "xuhuazhi",
+    "Date": "Do not edit", // 设置后默认设置文件生成时间
+    // "LastEditors": "xuhuazhi", // 设置后，保存文件更改默认更新最后编辑人
+    // "LastEditTime": "Do not edit", // 设置后，保存文件更改默认更新最后编辑时间
+    //"FilePath": "Do not edit", // 设置后，默认生成文件相对于项目的路径
+  },
+  // 函数注释
+  "fileheader.cursorMode": {
+    // 默认字段
+    "description": "",
+    "param": "",
+    "return": ""
+  },
+  // 插件配置项
+  "fileheader.configObj": {
+    "autoAdd": false, // 检测文件没有头部注释，自动添加文件头部注释
+    "autoAddLine": 100, // 文件超过多少行数 不再自动添加头部注释
+    "autoAlready": true, // 只添加插件支持的语言以及用户通过`language`选项自定义的注释
+    "supportAutoLanguage": [], // 设置之后，在数组内的文件才支持自动添加
+    // 自动添加头部注释黑名单
+    "prohibitAutoAdd": [
+      "json"
+    ],
+    "prohibitItemAutoAdd": [
+      "项目的全称禁止项目自动添加头部注释, 使用快捷键自行添加"
+    ],
+    "folderBlacklist": [
+      "node_modules"
+    ], // 文件夹或文件名禁止自动添加头部注释
+    "wideSame": false, // 头部注释等宽设置
+    "wideNum": 13, // 头部注释字段长度 默认为13
+    "functionWideNum": 0, // 函数注释等宽设置 设为0 即为关闭
+    // 头部注释第几行插入
+    "beforeAnnotation": {}, // 头部注释之前插入内容
+    "afterAnnotation": {}, // 头部注释之后插入内容
+    "specialOptions": {}, // 特殊字段自定义
+    "switch": {
+      "newlineAddAnnotation": true // 默认遇到换行符(\r\n \n \r)添加注释符号
+    },
+    "moveCursor": true, // 自动移动光标到Description所在行
+    "dateFormat": "YYYY-MM-DD HH:mm:ss",
+    "atSymbol": [
+      "@",
+      "@"
+    ], // 更改所有文件的自定义注释中的@符号
+    "atSymbolObj": {}, //  更改单独语言/文件的@
+    "colon": [
+      ": ",
+      ": "
+    ], // 更改所有文件的注释冒号
+    "colonObj": {}, //  更改单独语言/文件的冒号
+    "filePathColon": "路径分隔符替换", // 默认值： mac: / window是: \
+    "showErrorMessage": false, // 是否显示插件错误通知 用于debugger
+    "writeLog": false, // 错误日志生成
+    "CheckFileChange": false, // 单个文件保存时进行diff检查
+    "createHeader": false, // 新建文件自动添加头部注释
+    "useWorker": false, // 是否使用工作区设置
+    "designAddHead": true, // 添加注释图案时添加头部注释
+    "headDesign": false, // 是否使用图案注释替换头部注释
+    // 自定义配置是否在函数内生成注释 不同文件类型和语言类型
+    "cursorModeInternalAll": {}, // 默认为false 在函数外生成函数注释
+    "openFunctionParamsCheck": true, // 开启关闭自动提取添加函数参数
+    "functionParamsShape": [
+      "{",
+      "}"
+    ], // 函数参数外形自定义 
+    // "functionParamsShape": "no type" 函数参数不需要类型
+    "functionBlankSpaceAll": {}, // 函数注释空格缩进 默认为空对象 默认值为0 不缩进
+    "functionTypeSymbol": "*", // 参数没有类型时的默认值
+    "typeParamOrder": "type param", // 参数类型 和 参数的位置自定义
+    // 自定义语言注释，自定义取消 head、end 部分
+    // 不设置自定义配置language无效 默认都有head、end
+    "customHasHeadEnd": {}, // "cancel head and function" | "cancel head" | "cancel function" 
+    "throttleTime": 60000, // 对同一个文件 需要过1分钟再次修改文件并保存才会更新注释
+    // 自定义语言注释符号，覆盖插件的注释格式
+    "language": {
+      // js后缀文件
+      "js": {
+        "head": "/*",
+        "middle": " * @",
+        "end": " */",
+        // 函数自定义注释符号：如果有此配置 会默认使用
+        "functionSymbol": {
+          "head": "/** ", // 统一增加几个*号
+          "middle": " * @",
+          "end": " **/"
+        },
+        "functionParams": "typescript" // 函数注释使用ts语言的解析逻辑
+      },
+      // 一次匹配多种文件后缀文件 不用重复设置
+      "h/hpp/cpp": {
+        "head": "/*** ", // 统一增加几个*号
+        "middle": " * @",
+        "end": " */"
+      },
+      // 针对有特殊要求的文件如：test.blade.php
+      "html/vue": {
+        "head": "<!--",
+        "middle": " * @",
+        "end": "-->",
+      }
+    },
+    // 默认注释  没有匹配到注释符号的时候使用。
+    "annotationStr": {
+      "head": "/*",
+      "middle": " * @",
+      "end": " */",
+      "use": false
+    },
+  },
+  "[css]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "window.zoomLevel": 1,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.largeFileOptimizations": false,
+  //codesnap代码截图配置
+  "codesnap.backgroundColor": "#f2f2f2", //截图代码容器边缘颜色
+  "codesnap.boxShadow": "5px 5px 60px 0px #888888", //阴影设置
+  "codesnap.containerPadding": "3em",
+  "codesnap.roundedCorners": true,
+  "codesnap.showWindowControls": true,
+  "codesnap.showWindowTitle": false,
+  "codesnap.showLineNumbers": true,
+  "codesnap.realLineNumbers": false,
+  "codesnap.transparentBackground": false,
+  "codesnap.target": "container",
+}
