@@ -12,4 +12,4 @@
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
     ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   - 🌱 Learning all about:
-    ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+    ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
