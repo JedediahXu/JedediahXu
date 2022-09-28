@@ -14,9 +14,6 @@
 </p>
 
 
-
 <p align="left">"Treat others as you would like others to treat you."</p>
 <p align="right">----</p>
-
-<br/><br/><br/>
 <hr />
