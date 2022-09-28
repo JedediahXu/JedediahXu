@@ -1,15 +1,22 @@
-- # 👋 Hey there
+<picture>
+  <source srcset="/assets/images/hello-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="/assets/images/hello-light.svg"/>
+</picture>
 
-  - 🚀 I use daily:
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-E34F26.svg?style=flat&logo=css3&logoColor=white)
-    ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
-    ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=flat&logo=webpack&logoColor=white)
-    ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
-    ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=white)
-    ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  - 🌱 Learning all about:
-    ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+
+
+
+<p align="center">
+  <picture>
+    <source width="480" srcset="/assets/images/cover-dark.gif" media="(prefers-color-scheme: dark)" />
+    <img width="480" src="/assets/images/cover-light.gif" />
+  </picture>
+</p>
+
+
+
+<p align="left">"𝑇ℎ𝑒𝑟𝑒 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑜𝑛𝑒 ℎ𝑒𝑟𝑜𝑖𝑠𝑚 𝑖𝑛 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑: 𝑡𝑜 𝑠𝑒𝑒 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑 𝑎𝑠 𝑖𝑡 𝑖𝑠, 𝑎𝑛𝑑 𝑡𝑜 𝑙𝑜𝑣𝑒 𝑖𝑡."</p>
+<p align="right">𝑅𝑜𝑚𝑎𝑖𝑛 𝑅𝑜𝑙𝑙𝑎𝑛𝑑</p>
+
+<br/><br/><br/>
+<hr />
