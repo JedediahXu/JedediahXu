@@ -1,6 +1,5 @@
 <picture>
   <source srcset="/assets/images/hello-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="/assets/images/hello-light.svg"/>
 </picture>
 
 
